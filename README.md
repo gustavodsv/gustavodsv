@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**gustavodsv/gustavodsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me chamo Gustavo, hoje estudo para desenvolvedor front-end. 👋
 
-Here are some ideas to get you started:
+* **HTML**
+* **CSS**
+* JS*
+* PHP*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Aprendendo/ Ainda vou aprender.
+
+obs: Eu sei que HTML e CSS não são linguagem de programação 🤭
+
+---
+
+📌 [LinkedIn](https://www.linkedin.com/in/gustavodsv/) 
