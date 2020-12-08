@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-## Me chamo Gustavo, hoje estudo para desenvolvedor front-end. 👋
-
-* **HTML**
-* **CSS**
-* JS*
-* PHP*
-
-*Aprendendo/ Ainda vou aprender.
-
-obs: Eu sei que HTML e CSS não são linguagem de programação 🤭
+## Me chamo Gustavo, hoje estudo desenvolvimento front-end. Futuro Fullstack 👋
 
 ---
 
-📌 [LinkedIn](https://www.linkedin.com/in/gustavodsv/) 
+📌 [LinkedIn](https://www.linkedin.com/in/gustavodsv/) | [Portfólio](https://gustavodsv.github.io/portfolio/)
