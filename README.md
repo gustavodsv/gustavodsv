@@ -4,4 +4,4 @@
 
 
 
-📌 [LinkedIn](https://www.linkedin.com/in/gustavodsv/) | [Portfólio](https://gustavodsv.github.io/portfolio/)
+📌 [LinkedIn](https://www.linkedin.com/in/gustavodsv/) | [Portfólio](https://gustavodsv.github.io/portfolio2.0/)
