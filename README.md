@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Me chamo Gustavo, hoje estudo desenvolvimento front-end. Futuro Fullstack 🚀💻
+## Me chamo Gustavo, hoje estudo desenvolvimento front-end. 🚀💻
 
 
 
