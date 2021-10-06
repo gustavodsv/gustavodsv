@@ -1,9 +1,9 @@
- <div>
+## Hi, There 👋
+
+<div>
   <a href="https://github.com/gustavodsv">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodsv&layout=compact&langs_count=7&theme=nord"/>
 </div>
-  
-## Hi, There 👋
  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
